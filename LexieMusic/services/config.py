@@ -25,7 +25,7 @@ if os.path.exists("local.env"):
 que = {}
 SESSION_NAME = getenv("SESSION_NAME", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
-BOT_NAME = getenv("BOT_NAME", "Shadow")
+BOT_NAME = getenv("BOT_NAME", "Lexie Music Helper")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "Lexiebotupdate")
 BG_IMAGE = getenv("BG_IMAGE", "https://telegra.ph/file/7541d1249e4f1a3740357.jpg")
 admins = {}
