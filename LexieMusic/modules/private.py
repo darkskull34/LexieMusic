@@ -15,7 +15,7 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import logging
-from ShadowMusic.modules.msg import Messages as tr
+from LexieMusic.modules.msg import Messages as tr
 from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
