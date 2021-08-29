@@ -122,7 +122,7 @@ This bot is based on the original work done by [Rojserbest](http://github.com/ro
 Lexie Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of LexieMusicRobot users
 
 #### Contribtors
-- [Deshadeeth Thisarana](https://github.com/viharasenindu): Owner
+- [Vihara Senindu](https://github.com/viharasenindu): Owner
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Prabhasha](https://github.com/Prabhasha-p): Dev
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev
