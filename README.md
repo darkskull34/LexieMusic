@@ -105,6 +105,13 @@ If you donlt like to play in linked channel:
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
+### Support Group 
+<a href="https://t.me/lexiesupport"><img src="https://img.shields.io/badge/Telegram-Join%20Support%20Group-blue.svg?logo=telegram"></a>
+
+### Updates Channel 🇱🇰
+<a href="https://t.me/Lexiebotupdate"><img src="https://img.shields.io/badge/Telegram-Join%20Updates%20Channel-blue.svg?logo=telegram"></a>
+ 
+
 ### Credits
 Don't edit this part
 
