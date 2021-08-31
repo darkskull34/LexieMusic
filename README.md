@@ -5,7 +5,7 @@
 ### Available on telegram as [@LexieMusicRobot](https://t.me/LexieMusicRobot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/7541d1249e4f1a3740357.jpg">
+  <img src="https://telegra.ph/file/dbec3e0aa3acbe2cd31e0.png">
 </p>
 
 <h2> Features 🔥 </h2>
