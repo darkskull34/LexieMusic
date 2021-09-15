@@ -125,7 +125,7 @@ Lexie Music is a modified version of [Callsmusic](https://github.com/callsmusic/
 
 #### Contribtors
 - [Vihara Senindu](https://github.com/viharasenindu): Owner
-- [InukaASiTH](https://github.com/InukaAsith): Dev
+- [InukaAsith](https://github.com/InukaAsith): Dev
 - [Prabhasha](https://github.com/Prabhasha-p): Dev
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev
 - [Rojserbest](http://github.com/rojserbest): Dev
