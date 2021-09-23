@@ -499,7 +499,7 @@ async def play(_, message: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nor manually add [assistant](https://t.me/LexieXMusic) to your Group and try again</b>",
+                        "\n\nor manually add [assistant](https://t.me/Teletech_supportgroup) to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -551,7 +551,7 @@ async def play(_, message: Message):
         )
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/7541d1249e4f1a3740357.jpg"
+        thumb_name = "https://telegra.ph/file/fe96c41103b970c58b61b.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -895,7 +895,7 @@ async def ytplay(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via Lexie Music ⚡️".format(message.from_user.mention()),
+            caption="▶️ <b>Playing</b> here the song requested by {} via 𝗗𝗔𝗥𝗞 𝗦𝗞𝗨𝗟𝗟 𝗠𝗨𝗦𝗜𝗖 ⚡️".format(message.from_user.mention()),
         )
         os.remove("final.png")
         return await lel.delete()
@@ -911,7 +911,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "LexieMusic"
+        user.first_name = "𝗗𝗔𝗥𝗞 𝗦𝗞𝗨𝗟𝗟 𝗠𝗨𝗦𝗜𝗖"
     usar = user
     wew = usar.id
     try:
@@ -974,7 +974,7 @@ async def deezer(client: Client, message_: Message):
         url = songs.result[0].url
         artist = songs.result[0].artist
         duration = songs.result[0].duration
-        thumbnail = "https://telegra.ph/file/7541d1249e4f1a3740357.jpg"
+        thumbnail = "https://telegra.ph/file/39b39c1444a849978c2f4.jpg"
 
     except:
         await res.edit("Found Literally Nothing, You Should Work On Your English!")
@@ -1049,7 +1049,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Lexie Music"
+        user.first_name = "𝗗𝗔𝗥𝗞 𝗦𝗞𝗨𝗟𝗟 𝗠𝗨𝗦𝗜𝗖"
     usar = user
     wew = usar.id
     try:
@@ -1284,7 +1284,7 @@ async def lol_cb(b, cb):
         await b.send_photo(chat_id,
             photo="final.png",
             reply_markup=keyboard,
-            caption=f"▶️ <b>Playing</b> here the song requested by {r_by.mention} via Lexie Music ⚡",
+            caption=f"▶️ <b>Playing</b> here the song requested by {r_by.mention} via 𝗗𝗔𝗥𝗞 𝗦𝗞𝗨𝗟𝗟 𝗠𝗨𝗦𝗜𝗖 ☠️",
         )
         
         os.remove("final.png")
