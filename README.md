@@ -2,10 +2,10 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@LexieMusicRobot](https://t.me/LexieMusicRobot)
+### Available on telegram as [@darK_skUlL_MusiC_BOT](https://t.me/Teletech_supportgroup)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dbec3e0aa3acbe2cd31e0.png">
+  <img src="https://telegra.ph/file/fe96c41103b970c58b61b.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
